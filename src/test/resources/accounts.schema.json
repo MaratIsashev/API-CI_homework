@@ -27,7 +27,7 @@
         "type": "integer"
       },
       "currency": {
-        "enum": ["RUR", "USD"]
+        "enum": ["RUB", "USD"]
       }
     }
   }
